@@ -1,1 +1,3 @@
-lkgdl
+input
+cout
+newWor
